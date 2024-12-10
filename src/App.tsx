@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import Sidebar from './Sidebar'
+
 import Documentation from './Documentation'
 import './App.css'
 
